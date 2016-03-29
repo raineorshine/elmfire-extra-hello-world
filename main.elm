@@ -8,7 +8,7 @@ import ElmFire.Dict
 import ElmFire.Op
 
 -- NOTE: The value at this path or subpath must be a dict of string -> string
-url = "https://elmfire-extra-hello-world.firebaseio.com"
+url = "https://elmfire-extra-hello-world.firebaseio-demo.com"
 -- url = "https://elmfire-extra-hello-world.firebaseio.com/my/sub/path"
 
 config = {
